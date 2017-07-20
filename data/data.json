@@ -1,0 +1,303 @@
+{
+	"usr": {
+		"name": "巩俐",
+		"ico": "img/gongli.jpg"
+	},
+	"relationshipArr": [
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "002",
+				"color": "239, 103, 117",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰1",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰2",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰3",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰4",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰5",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰6",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰7",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰8",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰9",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰10",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰11",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰12",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰13",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰14",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰15",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰16",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰17",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰18",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "李冰冰",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		}
+	]
+}

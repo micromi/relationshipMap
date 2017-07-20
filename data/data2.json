@@ -1,0 +1,303 @@
+{
+	"usr": {
+		"name": "巩俐",
+		"ico": "img/gongli.jpg"
+	},
+	"relationshipArr": [
+		{
+			"name": "巩俐",
+			"ico": "img/gongli.jpg",
+			"relationship": {
+				"type": "002",
+				"color": "239, 103, 117",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐1",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐2",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐3",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐4",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐5",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐6",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐7",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐8",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐9",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐10",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐11",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐12",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐13",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐14",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐15",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐16",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐17",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐18",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		},
+		{
+			"name": "巩俐",
+			"ico": "img/libinbin.jpg",
+			"relationship": {
+				"type": "001",
+				"color": "#3385ff",
+				"description": "传闻不和"
+			}
+		}
+	]
+}
